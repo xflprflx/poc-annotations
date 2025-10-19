@@ -9,5 +9,4 @@ public class PocAnnotationsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PocAnnotationsApplication.class, args);
 	}
-
 }
